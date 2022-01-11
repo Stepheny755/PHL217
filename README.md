@@ -11,4 +11,4 @@ To export decks in .json format,
 * Ensure that the CrowdAnki addon is installed properly. Please refer to [this](https://ankiweb.net/shared/info/1788670778) for more info. 
 * Refer to the screenshot below after selecting the deck to export to choose the .json format:
 
-![export_as_json](./figures/export_as_json)
+![export_as_json](./figures/export_as_json.png)
