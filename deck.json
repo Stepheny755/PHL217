@@ -131,6 +131,256 @@
             "guid": "KhBZU${*=u",
             "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a priori",
+                "Knowledge which is independent from experience. Derivable from purely reason."
+            ],
+            "guid": "zF1n}le5OR",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a posteriori",
+                "Knowledge which depends on empirical evidence. Unknowable using reason alone."
+            ],
+            "guid": "f5C![%(>9-",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Scientia",
+                "Latin word for knowledge"
+            ],
+            "guid": "yNw|03fN{",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Theoreos",
+                "Greek word for a theater spectator"
+            ],
+            "guid": "g5-f/LPy-#",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Episteme",
+                "Greek word for knowledge"
+            ],
+            "guid": "f>S]nRC_kR",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Epistemology",
+                "The theory of knowledge; the study of the nature, origin, limits of human knowledge."
+            ],
+            "guid": "lT}DV7}zxn",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exigency",
+                "Urgent need or demand"
+            ],
+            "guid": "k`mQ2<<.[T",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Esotericism",
+                "The state of being esoteric; Intended to be understood by only a small number of people with specialized knowledge."
+            ],
+            "guid": "k_Hi~3(:yy",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Obscurantism",
+                "Opposition to the increase and spread of knowledge"
+            ],
+            "guid": "P&x,k^]Y5@",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Teleology",
+                "Study of evidences of design in nature; An explanation of phenomena based on their final causes."
+            ],
+            "guid": "RaKk!k72KU",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Felicitious",
+                "Well suited for the occasion"
+            ],
+            "guid": "P5rIl8e+H]",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Emancipate",
+                "To free from restraint or influence"
+            ],
+            "guid": "fk8P1s#j9c",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Phenomenology",
+                "The study of phenomena; The philosophy of experience"
+            ],
+            "guid": "M]N!;4F<gF",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Debouch",
+                "To march out from a narrow or confined place into open country"
+            ],
+            "guid": "AD]jxm)e|}",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caricatured",
+                "Make or give a comically or grotesquely exaggerated representation of"
+            ],
+            "guid": "k+5WuE@[q:",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Noumenon",
+                "Posited object or event that exists independently of human sense or position"
+            ],
+            "guid": "L{lAAQ{Q*h",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hermeneutic",
+                "Theory and methodology of interpretation"
+            ],
+            "guid": "kW#-N|H2Et",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bathos",
+                "Literary term describing a failed attempt at presenting artistic greatness"
+            ],
+            "guid": "qVR|?F:dp9",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Acrimonious",
+                "Angry and bitter"
+            ],
+            "guid": "c{|4j6rY.m",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Epiphenomenon",
+                "A secondary effect or byproduct that arises from but does not causally influence a process"
+            ],
+            "guid": "bGHhH/qtt&",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sundry",
+                "Of various kinds"
+            ],
+            "guid": "KBVcoPxLu9",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vernacular",
+                "The language or dialect spoken by the ordinary people in a particular country/region."
+            ],
+            "guid": "l6#]D)aV<(",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Derivative",
+                "Imitative of the work of another"
+            ],
+            "guid": "n!Zi]kqK97",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Precis",
+                "A summary or abstract of a text or speech"
+            ],
+            "guid": "K<rMcp^T]4",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wissenschaft",
+                "Systematic pursuit of knowledge, learning, scholarship"
+            ],
+            "guid": "NOQh%{&7O6",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": []
         }
     ]
 }
