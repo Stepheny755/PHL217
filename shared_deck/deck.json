@@ -1,0 +1,597 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "26c45f71-7279-11ec-ab22-8cc681f044c9",
+    "deck_config_uuid": "26c45f72-7279-11ec-a864-8cc681f044c9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "26c45f72-7279-11ec-a864-8cc681f044c9",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "AUG-1-Emancipation-day.jpg",
+        "acrimo01.wav",
+        "bathos01.wav",
+        "debouc02.wav",
+        "deriva05.wav",
+        "emanci01.wav",
+        "esoter04.wav",
+        "felici05.wav",
+        "maxresdefault.jpg",
+        "mmo9rkt228m41.jpg",
+        "obscur03.wav",
+        "paste-c9773ca9a4efda95d8f048fca7e4284d1ff6228d.jpg",
+        "roystonbybrighty.jpg",
+        "sundry01.wav",
+        "vernac01.wav"
+    ],
+    "name": "PHL217",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Term",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Definition",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "Coiner",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "SchoolOfThought",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "RelatedWork",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Phil Terms",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Definition}}\n<br>\n<br>\n<div style='font-family: \"Liberation Sans\"; font-size: 18px; text-align:left'><i>Coined by:</i> {{Coiner}}</div>\n",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Term}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "English"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "<span style=\"font-size:14px\">{{Tags}}</span>\n<br><br>\n<div style='font-family: \"Liberation Sans\"; font-size: 30px;'>{{Front}}</div>\n"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "<span style=\"font-size:14px\">{{Tags}}</span>\n<br><br>\n{{Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Epistemology",
+                "The theory of knowledge; the study of the nature, origin, and limits of human knowledge<br>",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KhBZU${*=u",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a priori",
+                "Knowledge which is independent from experience. Derivable from purely reason.",
+                "Immanuel Kant",
+                "",
+                ""
+            ],
+            "guid": "zF1n}le5OR",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a posteriori",
+                "Knowledge which depends on empirical evidence. Unknowable using reason alone.",
+                "Immanuel Kant",
+                "",
+                ""
+            ],
+            "guid": "f5C![%(>9-",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Scientia",
+                "Latin word for knowledge",
+                "",
+                "",
+                ""
+            ],
+            "guid": "yNw|03fN{",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Theoreos",
+                "Greek word for a theater spectator",
+                "",
+                "",
+                ""
+            ],
+            "guid": "g5-f/LPy-#",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Episteme",
+                "Greek word for knowledge",
+                "",
+                "",
+                ""
+            ],
+            "guid": "f>S]nRC_kR",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Epistemology",
+                "The theory of knowledge; the study of the nature, origin, limits of human knowledge.",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lT}DV7}zxn",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Exigency",
+                "Urgent need or demand",
+                "",
+                "",
+                ""
+            ],
+            "guid": "k`mQ2<<.[T",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "esotericism[sound:esoter04.wav]",
+                "The state of being esoteric; Intended to be understood by only a small number of people with specialized knowledge."
+            ],
+            "guid": "k_Hi~3(:yy",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Obscurantism[sound:obscur03.wav]",
+                "<b>n.</b> opposition to the spread of knowledge; a policy of withholding knowledge from the general public\n<br>a style (as in literature or art) characterized by deliberate vagueness or abstruseness<br>"
+            ],
+            "guid": "P&x,k^]Y5@",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Teleology",
+                "Study of evidences of design in nature; An explanation of phenomena based on their final causes.",
+                "",
+                "",
+                ""
+            ],
+            "guid": "RaKk!k72KU",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Felicitous[sound:felici05.wav]",
+                "<b>adj.</b> very well suited or expressed; apt; pleasant; delightful\n"
+            ],
+            "guid": "P5rIl8e+H]",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Emancipate[sound:emanci01.wav]",
+                "To free from restraint or influence&nbsp;<br><img src=\"AUG-1-Emancipation-day.jpg\">"
+            ],
+            "guid": "fk8P1s#j9c",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Phenomenology",
+                "The study of phenomena; The philosophy of experience",
+                "",
+                "",
+                ""
+            ],
+            "guid": "M]N!;4F<gF",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Debouch[sound:debouc02.wav]",
+                "<b>v.&nbsp;</b>To march out from a narrow or confined place into open country; emerge; issue\n<br><img src=\"maxresdefault.jpg\">"
+            ],
+            "guid": "AD]jxm)e|}",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caricatured",
+                "Make or give a comically or grotesquely exaggerated representation of<br><img src=\"roystonbybrighty.jpg\">"
+            ],
+            "guid": "k+5WuE@[q:",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Noumenon",
+                "Posited object or event that exists independently of human sense or position",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L{lAAQ{Q*h",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hermeneutic",
+                "Theory and methodology of interpretation",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kW#-N|H2Et",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bathos[sound:bathos01.wav]",
+                "Literary term describing a failed attempt at presenting artistic greatness<br>--<br><b>n.</b> the sudden appearance of the commonplace in otherwise elevated matter or style\n; anticlimax\n<br>exceptional commonplaceness; triteness\n<br>insincere or overdone pathos; sentimentalism\n"
+            ],
+            "guid": "qVR|?F:dp9",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "acrimonious[sound:acrimo01.wav]",
+                "<b>adj.</b> caustic, biting, or rancorous especially in feeling, language, or manner\n"
+            ],
+            "guid": "c{|4j6rY.m",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Epiphenomenon",
+                "A secondary effect or byproduct that arises from but does not causally influence a process",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bGHhH/qtt&",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "sundry[sound:sundry01.wav]",
+                "<b>adj.</b> miscellaneous; various"
+            ],
+            "guid": "KBVcoPxLu9",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vernacular[sound:vernac01.wav]",
+                "The language or dialect spoken by the ordinary people in a particular country/region<br><img src=\"paste-c9773ca9a4efda95d8f048fca7e4284d1ff6228d.jpg\">"
+            ],
+            "guid": "l6#]D)aV<(",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Derivative[sound:deriva05.wav]",
+                "Imitative of the work of another<b><br></b><img src=\"mmo9rkt228m41.jpg\">"
+            ],
+            "guid": "n!Zi]kqK97",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Precis",
+                "A summary or abstract of a text or speech",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K<rMcp^T]4",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wissenschaft",
+                "Systematic pursuit of knowledge, learning, scholarship",
+                "",
+                "",
+                ""
+            ],
+            "guid": "NOQh%{&7O6",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        }
+    ]
+}
