@@ -1,4 +1,4 @@
-# PHL217
+# PHL217 Continental Philosophy
 A repository for PHL217: Continental Philosophy
 
 ## Sharing Anki Decks
