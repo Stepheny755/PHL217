@@ -17,6 +17,6 @@ To export decks in .json format,
 
 ### Importing Decks
 
-To import a deck, you can directly import the Anki deck from the github by selecting `CrowdAnki: Import git repository` and pasting in the URL of this github repository.
+To import a deck, you can directly import the Anki deck from the github repo by selecting `CrowdAnki: Import git repository` and pasting in the URL of this github repository.
 
 > https://github.com/Stepheny755/PHL217
