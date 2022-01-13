@@ -62,6 +62,7 @@
     "extendRev": 0,
     "media_files": [
         "AUG-1-Emancipation-day.jpg",
+        "abet0001.wav",
         "acrimo01.wav",
         "bathos01.wav",
         "debouc02.wav",
@@ -71,10 +72,13 @@
         "felici05.wav",
         "maxresdefault.jpg",
         "mmo9rkt228m41.jpg",
+        "noumen01.wav",
         "obscur03.wav",
         "paste-c9773ca9a4efda95d8f048fca7e4284d1ff6228d.jpg",
+        "paste-f9083434074010ae0ca673f867e0c1690ac2a29e.jpg",
         "roystonbybrighty.jpg",
         "sundry01.wav",
+        "teleol01.wav",
         "vernac01.wav"
     ],
     "name": "PHL217",
@@ -138,7 +142,8 @@
                     0,
                     "any",
                     [
-                        0
+                        0,
+                        3
                     ]
                 ]
             ],
@@ -154,7 +159,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Term}}"
+                    "qfmt": "<div style='font-family: \"Liberation Sans\"; font-size: 15px;'>Philosophy {{SchoolOfThought}}</div>\n<br>\n{{Term}}\n"
                 }
             ],
             "type": 0,
@@ -591,6 +596,63 @@
             "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
             "tags": [
                 "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "teleological[sound:teleol01.wav]",
+                "Explaining phenomena in terms of the purpose they serve (eg. what Aristotle called its final cause, the goal for the sake of which a thing is the way it is)",
+                "",
+                "",
+                "Critchley's Short Intro to Continental Philosophy, Chap 1"
+            ],
+            "guid": "m_p#0|slA,",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "noumenon[sound:noumen01.wav]",
+                "<b>n.</b> a posited object or event that exists independent of perception by human senses. Used in contrast with the term \"phenomenon\", an object of the senses",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ksj2]A+Uj/",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "philosophy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "abet[sound:abet0001.wav]",
+                "<b>v.</b>&nbsp;encourage or assist (someone) to do something wrong, in particular, to commit a crime or other offense.<br><br><img src=\"paste-f9083434074010ae0ca673f867e0c1690ac2a29e.jpg\"><br>-according to Beiser"
+            ],
+            "guid": "lHI2-2L@bS",
+            "note_model_uuid": "aaf73020-73e0-11ec-bd72-338621e8e6af",
+            "tags": [
+                "English"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "transcendental idealism",
+                "Basically, nobody understands what it is; the core of the argument between Continental and Analytical philosophy. <br>Critchley summarizes it as: \"although we can never know things-in-themselves, the objects of our representations conform to the concepts we have of them in a manner sufficient for knowledge. The empirical world is indeed real for us, but in order to explain how we make sense of the world we have to presuppose logically, a subject or consciousness that unites intuitions under concepts\".",
+                "Kant",
+                "",
+                "Critique of Pure Reason"
+            ],
+            "guid": "E=DkRn@yFb",
+            "note_model_uuid": "26c45f75-7279-11ec-bdb6-8cc681f044c9",
+            "tags": [
+                "English"
             ]
         }
     ]
